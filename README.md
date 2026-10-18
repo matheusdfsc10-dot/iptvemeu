@@ -11,3 +11,7 @@ atualizadas todo dia por GitHub Actions (canais fora do ar são removidos automa
 No IPTV Smarters: *Adicionar usuário → Carregar playlist ou arquivo/URL → M3U URL* e colar o link raw do arquivo.
 
 Rodar na mão: `python build.py --strict` (o `--strict` descarta também os bloqueados por região; use só rodando do Brasil).
+
+Links:
+- https://raw.githubusercontent.com/matheusdfsc10-dot/iptvemeu/main/brasil.m3u
+- https://raw.githubusercontent.com/matheusdfsc10-dot/iptvemeu/main/completa.m3u
