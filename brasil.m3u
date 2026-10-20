@@ -7,6 +7,8 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://video05.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Band.br@SD" tvg-name="Band [720p]" tvg-logo="https://i.imgur.com/1r5T6Pw.png" group-title="🇧🇷 Abertos e Regionais",Band [720p]
 http://170.84.165.204/BAND_HD/index.m3u8
+#EXTINF:-1 tvg-id="BoasNovas.br@SD" tvg-name="Boas Novas [1080p]" tvg-logo="https://i.imgur.com/ZqhizdP.png" group-title="🇧🇷 Abertos e Regionais",Boas Novas [1080p]
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal25Jundiai.br@SD" tvg-name="Canal 25 Jundiai [404p]" tvg-logo="https://i.imgur.com/7igGMwH.png" group-title="🇧🇷 Abertos e Regionais",Canal 25 Jundiai [404p]
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-name="Canal do Boi [720p]" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="🇧🇷 Abertos e Regionais",Canal do Boi [720p]
@@ -31,6 +33,8 @@ http://170.84.165.204/CANAL_21_HD/index.m3u8
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 #EXTINF:-1 tvg-id="EUTV.br@SD" tvg-name="EUTV [720p]" tvg-logo="https://i.imgur.com/8PxpamC.png" group-title="🇧🇷 Abertos e Regionais",EUTV [720p]
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="FalaLitoral.br@SD" tvg-name="Fala Litoral [480p]" tvg-logo="https://i.imgur.com/NF6PL8O.png" group-title="🇧🇷 Abertos e Regionais",Fala Litoral [480p]
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
 #EXTINF:-1 tvg-id="Lke.br@SD" tvg-name="L!ke [1080p]" tvg-logo="https://i.imgur.com/chHsCzB.png" group-title="🇧🇷 Abertos e Regionais",L!ke [1080p]
 https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 #EXTINF:-1 tvg-id="MBCBrasilTV.br@SD" tvg-name="MBC Brasil TV" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1775702325773-d10vtu076za.png" group-title="🇧🇷 Abertos e Regionais",MBC Brasil TV
@@ -95,6 +99,8 @@ http://45.162.64.114/SESC_TV/index.m3u8
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.br@SD" tvg-name="Sony Channel [720p]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/960px-Sony_Channel_Logo.png" group-title="🇧🇷 Abertos e Regionais",Sony Channel [720p]
 https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
+#EXTINF:-1 tvg-id="SOUTV.br@SD" tvg-name="SOU TV" tvg-logo="https://i.ibb.co/8cKmCNm/ezgif-com-gif-maker.png" group-title="🇧🇷 Abertos e Regionais",SOU TV
+https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV3Curitiba.br@SD" tvg-name="TV 3 Curitiba [720p]" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776133208960-o2l2f7f02f.png" group-title="🇧🇷 Abertos e Regionais",TV 3 Curitiba [720p]
 https://stmv.webtvninjas.com.br/tv3/tv3/playlist.m3u8
 #EXTINF:-1 tvg-id="TVACritica.br@SD" tvg-name="TV A Critica" tvg-logo="https://i.imgur.com/j51rBro.png" group-title="🇧🇷 Abertos e Regionais",TV A Critica
@@ -103,6 +109,8 @@ https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlternativa.br@SD" tvg-name="TV Alternativa [410p]" tvg-logo="https://i.imgur.com/wM9xXhc.png" group-title="🇧🇷 Abertos e Regionais",TV Alternativa [410p]
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+#EXTINF:-1 tvg-id="TVArapuan.br@SD" tvg-name="TV Arapuan [720p]" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="🇧🇷 Abertos e Regionais",TV Arapuan [720p]
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBahia.br@HD" tvg-name="TV Bahia [1080i]" tvg-logo="https://i.imgur.com/sJOrvHg.png" group-title="🇧🇷 Abertos e Regionais",TV Bahia [1080i]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -122,7 +130,7 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-id="TVComunitaria.br@SD" tvg-name="TV Comunitaria [360p]" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="🇧🇷 Abertos e Regionais",TV Comunitaria [360p]
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura [720p]" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="🇧🇷 Abertos e Regionais",TV Cultura [720p]
-https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
+http://45.162.64.114/TV_CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVDiarioMacapa.br@SD" tvg-name="TV Diario Macapa [1080p]" tvg-logo="https://i.imgur.com/yAW2Z5j.jpg" group-title="🇧🇷 Abertos e Regionais",TV Diario Macapa [1080p]
 https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDifusao.br@SD" tvg-name="TV Difusao [720p]" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px_doiivZN.png" group-title="🇧🇷 Abertos e Regionais",TV Difusao [720p]
@@ -135,6 +143,8 @@ https://tvfronteira.brasilstream.com.br/hls/tvfronteira/index.m3u8
 http://45.162.64.114/TV_GAZETA/index.m3u8
 #EXTINF:-1 tvg-id="TVGloboSaoPaulo.br@SD" tvg-name="TV Globo Sao Paulo [720p]" tvg-logo="https://i.imgur.com/OoSUg78.png" group-title="🇧🇷 Abertos e Regionais",TV Globo Sao Paulo [720p]
 https://cdn-5.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:-1 tvg-id="TVGuara.br@SD" tvg-name="TV Guara [720p]" tvg-logo="https://i.imgur.com/8PErNBT.png" group-title="🇧🇷 Abertos e Regionais",TV Guara [720p]
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGuarapari.br@SD" tvg-name="TV Guarapari [720p]" tvg-logo="https://i.imgur.com/eDNzwK0.png" group-title="🇧🇷 Abertos e Regionais",TV Guarapari [720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tvguarapari.com/
@@ -163,8 +173,6 @@ https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 http://45.162.64.114/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="TVShowFortaleza.br@SD" tvg-name="TV Show Fortaleza [720p]" tvg-logo="https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png" group-title="🇧🇷 Abertos e Regionais",TV Show Fortaleza [720p]
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSulBahia.br@SD" tvg-name="TV Sul Bahia [320p]" tvg-logo="https://i.imgur.com/qM6nMWm.png" group-title="🇧🇷 Abertos e Regionais",TV Sul Bahia [320p]
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVilaReal.br@SD" tvg-name="TV Vila Real [720p]" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="🇧🇷 Abertos e Regionais",TV Vila Real [720p]
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCRio.br@SD" tvg-name="TVC-Rio" tvg-logo="https://i.imgur.com/WDiikWv.png" group-title="🇧🇷 Abertos e Regionais",TVC-Rio
@@ -213,6 +221,8 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd7491406bba86497a24390a25/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAFolha.br@SD" tvg-name="TV A Folha [720p]" tvg-logo="https://i.imgur.com/I7XGMhj.png" group-title="🇧🇷 Notícias",TV A Folha [720p]
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrusque.br@SD" tvg-name="TV Brusque [720p]" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="🇧🇷 Notícias",TV Brusque [720p]
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNatal.br@SD" tvg-name="TV Natal [1080p]" tvg-logo="https://i.imgur.com/wqQmQml.png" group-title="🇧🇷 Notícias",TV Natal [1080p]
 http://185.228.163.146:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="TVParaense.br@HD" tvg-name="TV Paraense [720p]" tvg-logo="https://duckduckgo.com/i/e408ea02.png" group-title="🇧🇷 Notícias",TV Paraense [720p]
@@ -343,7 +353,7 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="CanalSaude.br@SD" tvg-name="Canal Saude" tvg-logo="https://i.imgur.com/ht4tUOc.png" group-title="🇧🇷 Educativos e Públicos",Canal Saude
 https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
 #EXTINF:-1 tvg-id="Futura.br@SD" tvg-name="Futura [720p]" tvg-logo="https://i.ibb.co/Pz6Nqk7w/logo-futura-vazado.png" group-title="🇧🇷 Educativos e Públicos",Futura [720p]
-http://168.197.104.22/FUTURA/index.m3u8
+http://170.83.49.66:8083/FUTURAHD/index.m3u8
 #EXTINF:-1 tvg-id="ISTV.br@SD" tvg-name="ISTV [720p]" tvg-logo="https://i.imgur.com/RUKVrOH.png" group-title="🇧🇷 Educativos e Públicos",ISTV [720p]
 https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeMinas.br@SD" tvg-name="Rede Minas [720p]" tvg-logo="https://i.imgur.com/MtQWAHv.png" group-title="🇧🇷 Educativos e Públicos",Rede Minas [720p]
@@ -362,6 +372,8 @@ https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 #EXTINF:-1 tvg-id="DespertarTV.br@HD" tvg-name="Despertar TV [720p]" tvg-logo="https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png" group-title="🇧🇷 Religiosos",Despertar TV [720p]
 https://br.conectmy.com.br/DespertarTV/index.m3u8
+#EXTINF:-1 tvg-id="FonteTV.br@SD" tvg-name="Fonte TV [1080p]" tvg-logo="https://i.imgur.com/7q2BmNc.png" group-title="🇧🇷 Religiosos",Fonte TV [1080p]
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:-1 tvg-id="GospelCartoon.br@SD" tvg-name="Gospel Cartoon [360p]" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="🇧🇷 Religiosos",Gospel Cartoon [360p]
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelMovieTV.br@SD" tvg-name="Gospel Movie TV [360p]" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="🇧🇷 Religiosos",Gospel Movie TV [360p]
@@ -385,8 +397,12 @@ https://acesso.ecast.site:3648/live/ritlive.m3u8
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="TVEvangelizar.br@SD" tvg-name="TV Evangelizar [720p]" tvg-logo="https://i.imgur.com/IrYR7Kp.png" group-title="🇧🇷 Religiosos",TV Evangelizar [720p]
 http://45.162.64.114/EVANGELIZAR/index.m3u8
+#EXTINF:-1 tvg-id="TVPadreCicero.br@SD" tvg-name="TV Padre Cicero [720p]" tvg-logo="https://i.imgur.com/Y7b29VG.png" group-title="🇧🇷 Religiosos",TV Padre Cicero [720p]
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPaiEterno.br@SD" tvg-name="TV Pai Eterno [720p]" tvg-logo="https://i.imgur.com/iuoXchN.png" group-title="🇧🇷 Religiosos",TV Pai Eterno [720p]
 https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTerceiroAnjo.br@SD" tvg-name="TV Terceiro Anjo [360p]" tvg-logo="https://i.imgur.com/PExKWNv.png" group-title="🇧🇷 Religiosos",TV Terceiro Anjo [360p]
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUniversal.br@SD" tvg-name="TV Universal [480p]" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="🇧🇷 Religiosos",TV Universal [480p]
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="ADBTV.pt@SD" tvg-name="ADB TV [1080p]" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="🇵🇹 Portugal",ADB TV [1080p]
@@ -525,9 +541,6 @@ http://168.197.104.22/ADULT_SWIM/index.m3u8
 http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@Portuguese" tvg-name="Angel TV (Portuguese) [720p]" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🌍 Outros em português",Angel TV (Portuguese) [720p]
 https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.us@Portugal" tvg-name="AXN White (Portugal) [480p]" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="🌍 Outros em português",AXN White (Portugal) [480p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://50.7.120.34:8080/AXN_WHITE/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-name="BabyFirst [720p]" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="🌍 Outros em português",BabyFirst [720p]
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@Brazil" tvg-name="Cartoon Network Latin America (Brazil) [720p]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="🌍 Outros em português",Cartoon Network Latin America (Brazil) [720p]
@@ -573,7 +586,7 @@ http://15.204.246.24:8080/TNTHD/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" tvg-name="TNT Novelas (Brazil) [720p]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="🌍 Outros em português",TNT Novelas (Brazil) [720p]
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="Tooncast.us@SD" tvg-name="Tooncast [1080p]" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="🌍 Outros em português",Tooncast [1080p]
-https://streaming.onnethn.com/TOONCAST/playlist.m3u8
+http://38.134.250.110:8000/play/a01t/index.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@HD" tvg-name="Trace Brazuca (HD) [1080p]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG" group-title="🌍 Outros em português",Trace Brazuca (HD) [1080p]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" tvg-name="Trace Brazuca [1080p]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG" group-title="🌍 Outros em português",Trace Brazuca [1080p]
