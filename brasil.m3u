@@ -261,8 +261,6 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-name="Sony Movies [720p]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="🇧🇷 Filmes",Sony Movies [720p]
 http://45.162.64.114/SONY_MOVIES/index.m3u8
-#EXTINF:-1 tvg-id="TelecineAction.br@SD" tvg-name="Telecine Action [1080p]" tvg-logo="https://i.imgur.com/BHYWG0h.png" group-title="🇧🇷 Filmes",Telecine Action [1080p]
-http://46.151.196.223:14326/
 #EXTINF:-1 tvg-id="AWTV.br@HD" tvg-name="AWTV [1080p]" tvg-logo="https://i.imgur.com/2tdMyef.png" group-title="🇧🇷 Séries",AWTV [1080p]
 #EXTVLCOPT:http-referrer=https://awtv.com.br
 https://awtv.nuvemplay.live/hls/stream.m3u8
@@ -541,9 +539,6 @@ http://168.197.104.22/ADULT_SWIM/index.m3u8
 http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AngelTV.in@Portuguese" tvg-name="Angel TV (Portuguese) [720p]" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="🌍 Outros em português",Angel TV (Portuguese) [720p]
 https://janya-digimix.akamaized.net/vglive-sk-382409/portuese/ngrp:angelportuguese_all/playlist.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.us@Portugal" tvg-name="AXN White (Portugal) [480p]" tvg-logo="https://i.imgur.com/47IKxmt.png" group-title="🌍 Outros em português",AXN White (Portugal) [480p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://50.7.120.34:8080/AXN_WHITE/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-name="BabyFirst [720p]" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="🌍 Outros em português",BabyFirst [720p]
 https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@Brazil" tvg-name="Cartoon Network Latin America (Brazil) [720p]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="🌍 Outros em português",Cartoon Network Latin America (Brazil) [720p]
@@ -668,7 +663,7 @@ https://jmp2.uk/plu-66997e8d3a4ad20008e50be9.m3u8
 https://jmp2.uk/plu-6a68dc0a75fd5e3828f10b10.m3u8
 #EXTINF:-1 tvg-id="64f6180130ab3300083d896b" tvg-name="PFL MMA" tvg-logo="https://images.pluto.tv/channels/64f6180130ab3300083d896b/colorLogoPNG.png" group-title="📺 Pluto TV | Esportes",PFL MMA
 https://jmp2.uk/plu-64f6180130ab3300083d896b.m3u8
-#EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG_1791389639208.png" group-title="📺 Pluto TV | Esportes",Pluto TV Esportes
+#EXTINF:-1 tvg-id="5f32d2db0af67400077f29c4" tvg-name="Pluto TV Esportes" tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG_1792601694709.png" group-title="📺 Pluto TV | Esportes",Pluto TV Esportes
 https://jmp2.uk/plu-5f32d2db0af67400077f29c4.m3u8
 #EXTINF:-1 tvg-id="65a6818c7bdc8d0008457b21" tvg-name="RACER Brasil" tvg-logo="https://images.pluto.tv/channels/65a6818c7bdc8d0008457b21/colorLogoPNG_1746817068891.png" group-title="📺 Pluto TV | Esportes",RACER Brasil
 https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
