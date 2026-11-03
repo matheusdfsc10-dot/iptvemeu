@@ -131,6 +131,8 @@ http://45.162.64.114/CANCAO_NOVA/index.m3u8
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-id="TVClube.br@SD" tvg-name="TV Clube [720p]" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="🇧🇷 Abertos e Regionais",TV Clube [720p]
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+#EXTINF:-1 tvg-id="TVComunitaria.br@SD" tvg-name="TV Comunitaria [360p]" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="🇧🇷 Abertos e Regionais",TV Comunitaria [360p]
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura [720p]" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="🇧🇷 Abertos e Regionais",TV Cultura [720p]
 https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
 #EXTINF:-1 tvg-id="TVDiarioMacapa.br@SD" tvg-name="TV Diario Macapa [1080p]" tvg-logo="https://i.imgur.com/yAW2Z5j.jpg" group-title="🇧🇷 Abertos e Regionais",TV Diario Macapa [1080p]
@@ -183,10 +185,10 @@ https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamo
 https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVilaReal.br@SD" tvg-name="TV Vila Real [720p]" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="🇧🇷 Abertos e Regionais",TV Vila Real [720p]
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
-#EXTINF:-1 tvg-id="TVCRio.br@SD" tvg-name="TVC-Rio" tvg-logo="https://i.imgur.com/WDiikWv.png" group-title="🇧🇷 Abertos e Regionais",TVC-Rio
-https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCOMMaceio.br@SD" tvg-name="TVCOM Maceio [480p]" tvg-logo="https://i.imgur.com/IE7IZzi.png" group-title="🇧🇷 Abertos e Regionais",TVCOM Maceio [480p]
 https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+#EXTINF:-1 tvg-id="TVEBahia.br@SD" tvg-name="TVE Bahia [1080p]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/TVE_Bahia_logo.svg/960px-TVE_Bahia_logo.svg.png" group-title="🇧🇷 Abertos e Regionais",TVE Bahia [1080p]
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="TVitape.br@SD" tvg-name="TVitape [720p]" tvg-logo="https://i.imgur.com/XeqcwKe.png" group-title="🇧🇷 Abertos e Regionais",TVitape [720p]
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-id="TVLatinaSat.br@HD" tvg-name="TVLatinaSat [720p]" tvg-logo="https://latinasat.com.br/logo.png" group-title="🇧🇷 Abertos e Regionais",TVLatinaSat [720p]
@@ -233,6 +235,8 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8
 http://185.228.163.146:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="TVParaense.br@HD" tvg-name="TV Paraense [720p]" tvg-logo="https://duckduckgo.com/i/e408ea02.png" group-title="🇧🇷 Notícias",TV Paraense [720p]
 https://video09.logicahost.com.br/tvparaense/tvparaense/playlist.m3u
+#EXTINF:-1 tvg-id="TVSimCachoeiro.br@SD" tvg-name="TV Sim Cachoeiro [720p]" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="🇧🇷 Notícias",TV Sim Cachoeiro [720p]
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSimSaoMateus.br@SD" tvg-name="TV Sim Sao Mateus [720p]" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="🇧🇷 Notícias",TV Sim Sao Mateus [720p]
 https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="TVZoom.br@SD" tvg-name="TV Zoom [720p]" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="🇧🇷 Notícias",TV Zoom [720p]
@@ -365,12 +369,12 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 #EXTINF:-1 tvg-id="TVUFOP.br@HD" tvg-name="TV UFOP [1080p]" tvg-logo="https://raw.githubusercontent.com/daniloroxette/tvufop/refs/heads/main/images/tvufop_logo.png" group-title="🇧🇷 Educativos e Públicos",TV UFOP [1080p]
 https://app.tvufop.com.br/hls/tvufop.m3u8
+#EXTINF:-1 tvg-id="TVERS.br@SD" tvg-name="TVE RS [1080p]" tvg-logo="https://i.imgur.com/MQ6lJpS.png" group-title="🇧🇷 Educativos e Públicos",TVE RS [1080p]
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
 #EXTINF:-1 tvg-id="UnisulTV.br@SD" tvg-name="Unisul TV [720p]" tvg-logo="https://i.imgur.com/N0TvAFz.png" group-title="🇧🇷 Educativos e Públicos",Unisul TV [720p]
 https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
 #EXTINF:-1 tvg-id="DespertarTV.br@HD" tvg-name="Despertar TV [720p]" tvg-logo="https://res.cloudinary.com/dpkehkbpv/image/upload/v1721839192/logo/mixtv/despertar_tv_ieb2l3.png" group-title="🇧🇷 Religiosos",Despertar TV [720p]
 https://br.conectmy.com.br/DespertarTV/index.m3u8
-#EXTINF:-1 tvg-id="FonteTV.br@SD" tvg-name="Fonte TV [1080p]" tvg-logo="https://i.imgur.com/7q2BmNc.png" group-title="🇧🇷 Religiosos",Fonte TV [1080p]
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:-1 tvg-id="GospelCartoon.br@SD" tvg-name="Gospel Cartoon [360p]" tvg-logo="https://i.imgur.com/yxjPno5.png" group-title="🇧🇷 Religiosos",Gospel Cartoon [360p]
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="GospelMovieTV.br@SD" tvg-name="Gospel Movie TV [360p]" tvg-logo="https://i.imgur.com/cQN3nWt.png" group-title="🇧🇷 Religiosos",Gospel Movie TV [360p]
@@ -402,8 +406,6 @@ https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUniversal.br@SD" tvg-name="TV Universal [480p]" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="🇧🇷 Religiosos",TV Universal [480p]
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-name="1001 Noites [480p]" tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="🇧🇷 Compras",1001 Noites [480p]
-https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
 #EXTINF:-1 tvg-id="ADBTV.pt@SD" tvg-name="ADB TV [1080p]" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="🇵🇹 Portugal",ADB TV [1080p]
 https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt@SD" tvg-name="ARTV [720p]" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="🇵🇹 Portugal",ARTV [720p]
@@ -521,6 +523,8 @@ https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="MNTV.mz@SD" tvg-name="MNTV" tvg-logo="https://mntv.co.mz/wp-content/uploads/2025/11/Prancheta-4_1-1.png" group-title="🇲🇿 Moçambique",MNTV
 https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
+#EXTINF:-1 tvg-id="ReinoInfantil.mz@SD" tvg-name="Reino Infantil" tvg-logo="https://i.imgur.com/oAygpDw.png" group-title="🇲🇿 Moçambique",Reino Infantil
+https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
 #EXTINF:-1 tvg-id="TVManaMocambique.mz@SD" tvg-name="TV Mana Mocambique [1080p]" tvg-logo="https://i.imgur.com/R5YrV5s.png" group-title="🇲🇿 Moçambique",TV Mana Mocambique [1080p]
 https://w2.manasat.com/tvmana-mz/smil:tvmana-mz.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVM.mz@SD" tvg-name="TVM" tvg-logo="https://i.imgur.com/Vqv7R3Y.png" group-title="🇲🇿 Moçambique",TVM
@@ -591,6 +595,8 @@ https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_356
 http://15.204.246.24:8080/TNTHD/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Brazil" tvg-name="TNT Novelas (Brazil) [720p]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="🌍 Outros em português",TNT Novelas (Brazil) [720p]
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
+#EXTINF:-1 tvg-id="Tooncast.us@Panregional" tvg-name="Tooncast [1080p]" tvg-logo="https://i.imgur.com/3yXRbQy.png" group-title="🌍 Outros em português",Tooncast [1080p]
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/69.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@HD" tvg-name="Trace Brazuca (HD) [1080p]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG" group-title="🌍 Outros em português",Trace Brazuca (HD) [1080p]
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceBrazuca.fr@SD" tvg-name="Trace Brazuca [1080p]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Trace_Brasil_logo.PNG" group-title="🌍 Outros em português",Trace Brazuca [1080p]
@@ -633,6 +639,14 @@ https://jmp2.uk/plu-687007a8ee4155e89a8f6d67.m3u8
 https://jmp2.uk/plu-63988c2750108d00072e2686.m3u8
 #EXTINF:-1 tvg-id="63988a50be012600070f5db3" tvg-name="Yu-Gi-Oh" tvg-logo="https://images.pluto.tv/channels/63988a50be012600070f5db3/colorLogoPNG.png" group-title="📺 Pluto TV | Anime",Yu-Gi-Oh
 https://jmp2.uk/plu-63988a50be012600070f5db3.m3u8
+#EXTINF:-1 tvg-id="6a7cb568611342bebf046a90" tvg-name="Pluto TV Espírito de Natal" tvg-logo="https://images.pluto.tv/channels/6a7cb568611342bebf046a90/colorLogoPNG_1792532112145.png" group-title="📺 Pluto TV | Boas Festas",Pluto TV Espírito de Natal
+https://jmp2.uk/plu-6a7cb568611342bebf046a90.m3u8
+#EXTINF:-1 tvg-id="6a7cb5950c9f5239c2168f10" tvg-name="Pluto TV Natal em Família" tvg-logo="https://images.pluto.tv/channels/6a7cb5950c9f5239c2168f10/colorLogoPNG_1792164853182.png" group-title="📺 Pluto TV | Boas Festas",Pluto TV Natal em Família
+https://jmp2.uk/plu-6a7cb5950c9f5239c2168f10.m3u8
+#EXTINF:-1 tvg-id="6a7cb5b545b3c0d1f72dcca8" tvg-name="Pluto TV Romance de Natal" tvg-logo="https://images.pluto.tv/channels/6a7cb5b545b3c0d1f72dcca8/colorLogoPNG_1792532269275.png" group-title="📺 Pluto TV | Boas Festas",Pluto TV Romance de Natal
+https://jmp2.uk/plu-6a7cb5b545b3c0d1f72dcca8.m3u8
+#EXTINF:-1 tvg-id="68d193184251718916945fb7" tvg-name="Tempero de Fim de Ano" tvg-logo="https://images.pluto.tv/channels/68d193184251718916945fb7/colorLogoPNG_1761672326841.png" group-title="📺 Pluto TV | Boas Festas",Tempero de Fim de Ano
+https://jmp2.uk/plu-68d193184251718916945fb7.m3u8
 #EXTINF:-1 tvg-id="5f357e91b18f0b00073583d2" tvg-name="Comedy Central Pluto TV" tvg-logo="https://images.pluto.tv/channels/5f357e91b18f0b00073583d2/colorLogoPNG.png" group-title="📺 Pluto TV | Comédia",Comedy Central Pluto TV
 https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 #EXTINF:-1 tvg-id="5f5141c1605ddf000748eb1b" tvg-name="FailArmy" tvg-logo="https://images.pluto.tv/channels/5f5141c1605ddf000748eb1b/colorLogoPNG.png" group-title="📺 Pluto TV | Comédia",FailArmy
@@ -679,10 +693,14 @@ https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
 https://jmp2.uk/plu-67813f3162bf016db944c9ab.m3u8
 #EXTINF:-1 tvg-id="6660b636cb3ea10008429c6a" tvg-name="SFT Combat" tvg-logo="https://images.pluto.tv/channels/6660b636cb3ea10008429c6a/colorLogoPNG.png" group-title="📺 Pluto TV | Esportes",SFT Combat
 https://jmp2.uk/plu-6660b636cb3ea10008429c6a.m3u8
+#EXTINF:-1 tvg-id="68ee7a1c177d2e7dd453b5fa" tvg-name="SportyNet" tvg-logo="https://images.pluto.tv/channels/68ee7a1c177d2e7dd453b5fa/colorLogoPNG_1792165420295.png" group-title="📺 Pluto TV | Esportes",SportyNet
+https://jmp2.uk/plu-68ee7a1c177d2e7dd453b5fa.m3u8
 #EXTINF:-1 tvg-id="69a20556814d27f4ae630a92" tvg-name="UFC" tvg-logo="https://images.pluto.tv/channels/69a20556814d27f4ae630a92/colorLogoPNG_1793054877680.png" group-title="📺 Pluto TV | Esportes",UFC
 https://jmp2.uk/plu-69a20556814d27f4ae630a92.m3u8
 #EXTINF:-1 tvg-id="63eba66da8b2270008436b10" tvg-name="World Poker Tour" tvg-logo="https://images.pluto.tv/channels/63eba66da8b2270008436b10/colorLogoPNG.png" group-title="📺 Pluto TV | Esportes",World Poker Tour
 https://jmp2.uk/plu-63eba66da8b2270008436b10.m3u8
+#EXTINF:-1 tvg-id="6932decb96b4427d18426909" tvg-name="Caras TV" tvg-logo="https://images.pluto.tv/channels/6932decb96b4427d18426909/colorLogoPNG_1785419506850.png" group-title="📺 Pluto TV | Estilo de Vida",Caras TV
+https://jmp2.uk/plu-6932decb96b4427d18426909.m3u8
 #EXTINF:-1 tvg-id="67603668f433320008760af1" tvg-name="Homeful" tvg-logo="https://images.pluto.tv/channels/67603668f433320008760af1/colorLogoPNG.png" group-title="📺 Pluto TV | Estilo de Vida",Homeful
 https://jmp2.uk/plu-67603668f433320008760af1.m3u8
 #EXTINF:-1 tvg-id="61099df8cee03b00074b2ecf" tvg-name="O Encantador de Cães" tvg-logo="https://images.pluto.tv/channels/61099df8cee03b00074b2ecf/colorLogoPNG.png" group-title="📺 Pluto TV | Estilo de Vida",O Encantador de Cães
@@ -845,6 +863,10 @@ https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8
 https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
 #EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-name="Bob Esponja Calça Quadrada" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="📺 Pluto TV | Nickelodeon",Bob Esponja Calça Quadrada
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
+#EXTINF:-1 tvg-id="656e28dd57fe4a0008819c3d" tvg-name="Dora  A Aventureira" tvg-logo="https://images.pluto.tv/channels/656e28dd57fe4a0008819c3d/colorLogoPNG.png" group-title="📺 Pluto TV | Nickelodeon",Dora  A Aventureira
+https://jmp2.uk/plu-656e28dd57fe4a0008819c3d.m3u8
+#EXTINF:-1 tvg-id="66b4e477d512590008ca6849" tvg-name="Hey Arnold!" tvg-logo="https://images.pluto.tv/channels/66b4e477d512590008ca6849/colorLogoPNG.png" group-title="📺 Pluto TV | Nickelodeon",Hey Arnold!
+https://jmp2.uk/plu-66b4e477d512590008ca6849.m3u8
 #EXTINF:-1 tvg-id="5ffcc5130fd98c0007f2e216" tvg-name="Kenan & Kel" tvg-logo="https://images.pluto.tv/channels/5ffcc5130fd98c0007f2e216/colorLogoPNG.png" group-title="📺 Pluto TV | Nickelodeon",Kenan & Kel
 https://jmp2.uk/plu-5ffcc5130fd98c0007f2e216.m3u8
 #EXTINF:-1 tvg-id="6824ce95f09106f4b18f4114" tvg-name="Nick Jr. Club" tvg-logo="https://images.pluto.tv/channels/6824ce95f09106f4b18f4114/colorLogoPNG_1747935179470.png" group-title="📺 Pluto TV | Nickelodeon",Nick Jr. Club
@@ -899,6 +921,8 @@ https://jmp2.uk/plu-655e5c4d2c46f3000877a54b.m3u8
 https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
 #EXTINF:-1 tvg-id="677d93f37bffa600080795e7" tvg-name="Popeye" tvg-logo="https://images.pluto.tv/channels/677d93f37bffa600080795e7/colorLogoPNG.png" group-title="📺 Pluto TV | Retrô",Popeye
 https://jmp2.uk/plu-677d93f37bffa600080795e7.m3u8
+#EXTINF:-1 tvg-id="6aa9606aaf45eb18db1928c4" tvg-name="The Nanny" tvg-logo="https://images.pluto.tv/channels/6aa9606aaf45eb18db1928c4/colorLogoPNG_1790087675320.png" group-title="📺 Pluto TV | Retrô",The Nanny
+https://jmp2.uk/plu-6aa9606aaf45eb18db1928c4.m3u8
 #EXTINF:-1 tvg-id="5ff609de50ab210008025c1b" tvg-name="Tokusato" tvg-logo="https://images.pluto.tv/channels/5ff609de50ab210008025c1b/colorLogoPNG.png" group-title="📺 Pluto TV | Retrô",Tokusato
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 #EXTINF:-1 tvg-id="609ae66b359b270007869ff1" tvg-name="Comedy Central South Park" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png" group-title="📺 Pluto TV | South Park",Comedy Central South Park
