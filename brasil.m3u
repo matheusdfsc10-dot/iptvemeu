@@ -13,8 +13,6 @@ https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
 #EXTINF:-1 tvg-id="CanaldoBoi.br@SD" tvg-name="Canal do Boi [720p]" tvg-logo="https://i.imgur.com/pVM5MhS.png" group-title="🇧🇷 Abertos e Regionais",Canal do Boi [720p]
 http://170.83.16.50/CANAL_DO_BOI/index.m3u8
-#EXTINF:-1 tvg-id="CanalSete.br@SD" tvg-name="Canal Sete" tvg-logo="https://i.imgur.com/0cq0BPp.png" group-title="🇧🇷 Abertos e Regionais",Canal Sete
-http://play.canalsete.com.br:1935/canalsete/xpl-c7_source/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalUOL.br@SD" tvg-name="Canal UOL [1080p]" tvg-logo="https://conteudo.imguol.com.br/c/play/logo_canaluol_2024.svg" group-title="🇧🇷 Abertos e Regionais",Canal UOL [1080p]
 https://video24.mais.uol.com.br/live/6146.m3u8
 #EXTINF:-1 tvg-id="CatveFM.br@SD" tvg-name="Catve FM [720p]" tvg-logo="https://i.imgur.com/w89yw36.png" group-title="🇧🇷 Abertos e Regionais",Catve FM [720p]
@@ -125,8 +123,6 @@ https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAlternativa.br@SD" tvg-name="TV Alternativa [410p]" tvg-logo="https://i.imgur.com/wM9xXhc.png" group-title="🇧🇷 Abertos e Regionais",TV Alternativa [410p]
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
-#EXTINF:-1 tvg-id="TVArapuan.br@SD" tvg-name="TV Arapuan [720p]" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="🇧🇷 Abertos e Regionais",TV Arapuan [720p]
-https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBahia.br@HD" tvg-name="TV Bahia [1080i]" tvg-logo="https://i.imgur.com/sJOrvHg.png" group-title="🇧🇷 Abertos e Regionais",TV Bahia [1080i]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
@@ -143,8 +139,6 @@ http://170.83.16.50/CANCAO_NOVA/index.m3u8
 https://televisaocidadeverde.brasilstream.com.br/hls/televisaocidadeverde/index.m3u8
 #EXTINF:-1 tvg-id="TVClube.br@SD" tvg-name="TV Clube [720p]" tvg-logo="https://i.imgur.com/CpXjcyE.png" group-title="🇧🇷 Abertos e Regionais",TV Clube [720p]
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
-#EXTINF:-1 tvg-id="TVComunitaria.br@SD" tvg-name="TV Comunitaria [360p]" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="🇧🇷 Abertos e Regionais",TV Comunitaria [360p]
-https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura [720p]" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="🇧🇷 Abertos e Regionais",TV Cultura [720p]
 https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
 #EXTINF:-1 tvg-id="TVDiarioMacapa.br@SD" tvg-name="TV Diario Macapa [1080p]" tvg-logo="https://i.imgur.com/yAW2Z5j.jpg" group-title="🇧🇷 Abertos e Regionais",TV Diario Macapa [1080p]
@@ -245,6 +239,8 @@ https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8
 http://185.228.163.146:8000/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="TVSimCachoeiro.br@SD" tvg-name="TV Sim Cachoeiro [720p]" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="🇧🇷 Notícias",TV Sim Cachoeiro [720p]
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSimSaoMateus.br@SD" tvg-name="TV Sim Sao Mateus [720p]" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="🇧🇷 Notícias",TV Sim Sao Mateus [720p]
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 tvg-id="TVZoom.br@SD" tvg-name="TV Zoom [720p]" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="🇧🇷 Notícias",TV Zoom [720p]
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-id="TVideoNews.br@SD" tvg-name="TVideoNews [720p]" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="🇧🇷 Notícias",TVideoNews [720p]
@@ -312,6 +308,8 @@ http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 http://186.219.52.187/zoomoo/index.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-name="NickOnline (HD) [720p]" tvg-logo="https://x1colegal.com/logo.png" group-title="🇧🇷 Infantil",NickOnline (HD) [720p]
 https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Blitstv.br@SD" tvg-name="Blitstv" tvg-logo="https://i.imgur.com/FO4QTRf.jpeg" group-title="🇧🇷 Variedades",Blitstv
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChromaTV.br@SD" tvg-name="Chroma TV [480p]" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="🇧🇷 Variedades",Chroma TV [480p]
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralBrasil.br@SD" tvg-name="Comedy Central Brasil [480p]" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" group-title="🇧🇷 Variedades",Comedy Central Brasil [480p]
@@ -580,6 +578,9 @@ https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 #EXTINF:-1 tvg-id="EbSPlus.be@SD" tvg-name="EbS+ [1080p]" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="🌍 Outros em português",EbS+ [1080p]
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
+#EXTINF:-1 tvg-id="Eurochannel.uk@SD" tvg-name="Eurochannel" tvg-logo="https://i.imgur.com/yXAtmI6.png" group-title="🌍 Outros em português",Eurochannel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
+http://45.186.240.164:9000/stream/54/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD" tvg-name="Euronews Portuguese [720p]" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="🌍 Outros em português",Euronews Portuguese [720p]
 https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="Eurosport1.fr@Portugal" tvg-name="Eurosport 1 (Portugal)" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="🌍 Outros em português",Eurosport 1 (Portugal)
