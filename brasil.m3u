@@ -127,9 +127,6 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
 https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 #EXTINF:-1 tvg-id="TVArapuan.br@SD" tvg-name="TV Arapuan [720p]" tvg-logo="https://i.imgur.com/3395A2h.png" group-title="🇧🇷 Abertos e Regionais",TV Arapuan [720p]
 https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
-#EXTINF:-1 tvg-id="TVBahia.br@HD" tvg-name="TV Bahia [1080i]" tvg-logo="https://i.imgur.com/sJOrvHg.png" group-title="🇧🇷 Abertos e Regionais",TV Bahia [1080i]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br@SD" tvg-name="TV Brasil [720p]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/TvBrasil2023.png/960px-TvBrasil2023.png" group-title="🇧🇷 Abertos e Regionais",TV Brasil [720p]
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="TVBrasilOeste.br@SD" tvg-name="TV Brasil Oeste [720p]" tvg-logo="https://i.imgur.com/noqGfuy.png" group-title="🇧🇷 Abertos e Regionais",TV Brasil Oeste [720p]
@@ -146,7 +143,7 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
 #EXTINF:-1 tvg-id="TVComunitaria.br@SD" tvg-name="TV Comunitaria [360p]" tvg-logo="https://i.imgur.com/uxefHY3.png" group-title="🇧🇷 Abertos e Regionais",TV Comunitaria [360p]
 https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="TVCultura.br@SD" tvg-name="TV Cultura [720p]" tvg-logo="https://i.ibb.co/nm0jXMM/cultura-3x.png" group-title="🇧🇷 Abertos e Regionais",TV Cultura [720p]
-https://v-us-01.wisestream.io/memfs/e8740862-7a1f-45f3-acb2-4f357e144059.m3u8
+http://170.83.16.50/CULTURA/index.m3u8
 #EXTINF:-1 tvg-id="TVDiarioMacapa.br@SD" tvg-name="TV Diario Macapa [1080p]" tvg-logo="https://i.imgur.com/yAW2Z5j.jpg" group-title="🇧🇷 Abertos e Regionais",TV Diario Macapa [1080p]
 https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
 #EXTINF:-1 tvg-id="TVDifusao.br@SD" tvg-name="TV Difusao [720p]" tvg-logo="https://storage.googleapis.com/soultv-prod-media/media/brand/LOGO_TV_DIFUS%C3%83O_100x100px_doiivZN.png" group-title="🇧🇷 Abertos e Regionais",TV Difusao [720p]
@@ -241,8 +238,6 @@ https://ssai2-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/21fdb6dd749
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrusque.br@SD" tvg-name="TV Brusque [720p]" tvg-logo="https://i.imgur.com/J2EAZPS.png" group-title="🇧🇷 Notícias",TV Brusque [720p]
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSimCachoeiro.br@SD" tvg-name="TV Sim Cachoeiro [720p]" tvg-logo="https://i.imgur.com/t5oUK3C.png" group-title="🇧🇷 Notícias",TV Sim Cachoeiro [720p]
-https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 tvg-id="TVZoom.br@SD" tvg-name="TV Zoom [720p]" tvg-logo="https://i.imgur.com/jCGrjf5.png" group-title="🇧🇷 Notícias",TV Zoom [720p]
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 tvg-id="TVideoNews.br@SD" tvg-name="TVideoNews [720p]" tvg-logo="https://i.imgur.com/vstHOYx.png" group-title="🇧🇷 Notícias",TVideoNews [720p]
@@ -308,6 +303,8 @@ http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
 http://186.219.52.187/zoomoo/index.m3u8
 #EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-name="NickOnline (HD) [720p]" tvg-logo="https://x1colegal.com/logo.png" group-title="🇧🇷 Infantil",NickOnline (HD) [720p]
 https://x1colegal.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Blitstv.br@SD" tvg-name="Blitstv" tvg-logo="https://i.imgur.com/FO4QTRf.jpeg" group-title="🇧🇷 Variedades",Blitstv
+https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
 #EXTINF:-1 tvg-id="ChromaTV.br@SD" tvg-name="Chroma TV [480p]" tvg-logo="https://i.imgur.com/SnaIMgj.png" group-title="🇧🇷 Variedades",Chroma TV [480p]
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="ComedyCentralBrasil.br@SD" tvg-name="Comedy Central Brasil [480p]" tvg-logo="https://comcastadvertising.com/wp-content/uploads/2021/10/Comedy-Central-White.png" group-title="🇧🇷 Variedades",Comedy Central Brasil [480p]
@@ -322,8 +319,6 @@ https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeNGT.br@SD" tvg-name="Rede NGT [1080p]" tvg-logo="https://i.imgur.com/ZFN1R4B.png" group-title="🇧🇷 Variedades",Rede NGT [1080p]
 https://isaocorp.cloudecast.com/ngt/index.m3u8
-#EXTINF:-1 tvg-id="RetroCartoon.br@SD" tvg-name="Retro Cartoon [720p]" tvg-logo="https://i.imgur.com/hIlEfhl.png" group-title="🇧🇷 Variedades",Retro Cartoon [720p]
-https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 #EXTINF:-1 tvg-id="TVCuruca.br@SD" tvg-name="TV Curuca [360p]" tvg-logo="https://i.imgur.com/JdCKNZ4.png" group-title="🇧🇷 Variedades",TV Curuca [360p]
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br@SD" tvg-name="TV GRANDE NATAL HDTV BRASIL [1080p]" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="🇧🇷 Variedades",TV GRANDE NATAL HDTV BRASIL [1080p]
@@ -402,6 +397,8 @@ http://186.219.52.187/novo_tempo/index.m3u8
 https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br@SD" tvg-name="Rede Gospel [1080p]" tvg-logo="https://i.imgur.com/mttSwgO.png" group-title="🇧🇷 Religiosos",Rede Gospel [1080p]
 https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeImpactoGospelTV.br@HD" tvg-name="Rede Impacto Gospel TV [720p]" tvg-logo="https://redeimpactogospel.com/assets/logo-512.png" group-title="🇧🇷 Religiosos",Rede Impacto Gospel TV [720p]
+https://radiosnet.site/hls/redeimpactogospeltv/redeimpactogospeltv.m3u8
 #EXTINF:-1 tvg-id="RedeSeculo21.br@SD" tvg-name="Rede Seculo 21 [720p]" tvg-logo="" group-title="🇧🇷 Religiosos",Rede Seculo 21 [720p]
 http://186.219.52.187/seculo21/index.m3u8
 #EXTINF:-1 tvg-id="RedeVida.br@SD" tvg-name="Rede Vida [720p]" tvg-logo="https://i.imgur.com/mP1qfp2.png" group-title="🇧🇷 Religiosos",Rede Vida [720p]
@@ -472,9 +469,6 @@ https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTP1.pt@HD" tvg-name="RTP 1 [720p]" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp1_2026.png" group-title="🇵🇹 Portugal",RTP 1 [720p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="RTP2.pt@HD" tvg-name="RTP 2 [720p]" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtp2_2026.png" group-title="🇵🇹 Portugal",RTP 2 [720p]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTPAcores.pt@SD" tvg-name="RTP Acores (SD) [504p]" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpacores_2026.png" group-title="🇵🇹 Portugal",RTP Acores (SD) [504p]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
 https://streaming-live.rtp.pt/liverepeater/smil:rtpacores.smil/playlist.m3u8
@@ -536,6 +530,8 @@ https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
 #EXTINF:-1 tvg-id="TVZimbo.ao@SD" tvg-name="TV Zimbo [1080p]" tvg-logo="https://i.imgur.com/SFD8CBh.png" group-title="🇦🇴 Angola",TV Zimbo [1080p]
 https://sgn-cdn-video.vods2africa.com/Tv-Zimbo/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="MNTV.mz@SD" tvg-name="MNTV" tvg-logo="https://mntv.co.mz/wp-content/uploads/2025/11/Prancheta-4_1-1.png" group-title="🇲🇿 Moçambique",MNTV
+https://www.khuwemultimedia.com/hls/mntv/mntv.m3u8
 #EXTINF:-1 tvg-id="ReinoInfantil.mz@SD" tvg-name="Reino Infantil" tvg-logo="https://i.imgur.com/oAygpDw.png" group-title="🇲🇿 Moçambique",Reino Infantil
 https://www.khuwemultimedia.com/hls/reinoinfantiltv/reinoinfantiltv.m3u8
 #EXTINF:-1 tvg-id="TVManaMocambique.mz@SD" tvg-name="TV Mana Mocambique [1080p]" tvg-logo="https://i.imgur.com/R5YrV5s.png" group-title="🇲🇿 Moçambique",TV Mana Mocambique [1080p]
@@ -575,9 +571,6 @@ https://barinaslive1.boldmss.com/DISNEY/DISNEY.isml/DISNEY.m3u8
 https://streams.prd.commavservices.eu/live/ebs/index.m3u8
 #EXTINF:-1 tvg-id="EbSPlus.be@SD" tvg-name="EbS+ [1080p]" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="🌍 Outros em português",EbS+ [1080p]
 https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
-#EXTINF:-1 tvg-id="Eurochannel.uk@SD" tvg-name="Eurochannel" tvg-logo="https://i.imgur.com/yXAtmI6.png" group-title="🌍 Outros em português",Eurochannel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36
-http://45.186.240.164:9000/stream/54/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsPortuguese.fr@SD" tvg-name="Euronews Portuguese [720p]" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="🌍 Outros em português",Euronews Portuguese [720p]
 https://6e52fb8b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9FdXJvbmV3c1BvcnR1Z3Vlc19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FIFAPlus.uk@Portuguese" tvg-name="FIFA+ (Portuguese) [720p]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/FIFA%2B_%282025%29.svg" group-title="🌍 Outros em português",FIFA+ (Portuguese) [720p]
