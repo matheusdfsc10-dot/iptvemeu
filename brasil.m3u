@@ -45,14 +45,14 @@ https://cnl-cl.otteravision.com/cnl/cl_h265/cl_h265.m3u8
 https://play.mbcbrasil.tv.br/playlist.m3u8
 #EXTINF:-1 tvg-id="MKKWebTV.br@SD" tvg-name="MKK Web TV [720p]" tvg-logo="https://i.imgur.com/A8Yhtid.png" group-title="🇧🇷 Abertos e Regionais",MKK Web TV [720p]
 https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
-#EXTINF:-1 tvg-id="NovaEraTV.br@SD" tvg-name="Nova Era TV [1080p]" tvg-logo="https://i.imgur.com/IK3F9Uq.png" group-title="🇧🇷 Abertos e Regionais",Nova Era TV [1080p]
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="NTV.br@SD" tvg-name="NTV [720p]" tvg-logo="https://i.imgur.com/n79nkVC.png" group-title="🇧🇷 Abertos e Regionais",NTV [720p]
 https://cdn.livespanel.com/nossatv/nossatv/playlist.m3u8
 #EXTINF:-1 tvg-id="ODiaTV.br@SD" tvg-name="O Dia TV [450p]" tvg-logo="https://i.imgur.com/1LUbAVP.png" group-title="🇧🇷 Abertos e Regionais",O Dia TV [450p]
 https://6836041ea1117.streamlock.net/tvodia/tvodia/playlist.m3u8
 #EXTINF:-1 tvg-id="PlayTV.br@SD" tvg-name="Play TV [720p]" tvg-logo="https://i.imgur.com/Ikrj3lk.png" group-title="🇧🇷 Abertos e Regionais",Play TV [720p]
 https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 tvg-id="PrimerTV.br@SD" tvg-name="Primer TV [1080p]" tvg-logo="https://i.imgur.com/PMptSP3.png" group-title="🇧🇷 Abertos e Regionais",Primer TV [1080p]
+http://200.194.238.229:8383/live/primer/playlist.m3u8
 #EXTINF:-1 tvg-id="RBATV.br@SD" tvg-name="RBATV [720p]" tvg-logo="https://i.imgur.com/ZWFxlU1.png" group-title="🇧🇷 Abertos e Regionais",RBATV [720p]
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
 #EXTINF:-1 tvg-id="RCTVBrasil.br@SD" tvg-name="RCTV Brasil" tvg-logo="https://eswqkrogupaisirwcsys.supabase.co/storage/v1/object/public/mbc-media/canais/1776378749826-jef0fj1ekwq.png" group-title="🇧🇷 Abertos e Regionais",RCTV Brasil
@@ -91,8 +91,6 @@ https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 http://170.83.16.50/REDE_TV/index.m3u8
 #EXTINF:-1 tvg-id="RedeTVMais.br@SD" tvg-name="Rede TV! Mais [720p]" tvg-logo="https://i.ibb.co/F0Tm2WP/2103f4c07b851d64b4c96955765a9a95.png" group-title="🇧🇷 Abertos e Regionais",Rede TV! Mais [720p]
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15235/playlist/playlist.m3u8
-#EXTINF:-1 tvg-id="RedeTVParana.br@SD" tvg-name="RedeTV! Parana [1080p]" tvg-logo="https://i.imgur.com/D8R0Af4.png" group-title="🇧🇷 Abertos e Regionais",RedeTV! Parana [1080p]
-https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTCuiaba.br@SD" tvg-name="SBT Cuiaba [818p]" tvg-logo="https://i.imgur.com/EZJWQ3i.png" group-title="🇧🇷 Abertos e Regionais",SBT Cuiaba [818p]
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br@SD" tvg-name="SBT Interior [720p]" tvg-logo="https://i.imgur.com/IkZfa4j.png" group-title="🇧🇷 Abertos e Regionais",SBT Interior [720p]
@@ -185,8 +183,6 @@ https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
 http://170.83.16.50/TV_SENADO/index.m3u8
 #EXTINF:-1 tvg-id="TVShowFortaleza.br@SD" tvg-name="TV Show Fortaleza [720p]" tvg-logo="https://static.wixstatic.com/media/9af6b8_e963e864c8fb40d3954f5c1c8cab1b40~mv2.png" group-title="🇧🇷 Abertos e Regionais",TV Show Fortaleza [720p]
 https://stmv8.samcast.com.br/raimundoanselmolimamororo1908/raimundoanselmolimamororo1908/playlist.m3u8
-#EXTINF:-1 tvg-id="TVSulBahia.br@SD" tvg-name="TV Sul Bahia [320p]" tvg-logo="https://i.imgur.com/qM6nMWm.png" group-title="🇧🇷 Abertos e Regionais",TV Sul Bahia [320p]
-https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVVilaReal.br@SD" tvg-name="TV Vila Real [720p]" tvg-logo="https://i.imgur.com/Z1uWe7g.png" group-title="🇧🇷 Abertos e Regionais",TV Vila Real [720p]
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCOMMaceio.br@SD" tvg-name="TVCOM Maceio [480p]" tvg-logo="https://i.imgur.com/IE7IZzi.png" group-title="🇧🇷 Abertos e Regionais",TVCOM Maceio [480p]
@@ -326,8 +322,6 @@ https://stmv1.video.brstream.com.br/retrotv/retrotv/chunklist_w1069200121.m3u8
 https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGRANDENATALHDTVBRASIL.br@SD" tvg-name="TV GRANDE NATAL HDTV BRASIL [1080p]" tvg-logo="https://i.imgur.com/MTuErdw.png" group-title="🇧🇷 Variedades",TV GRANDE NATAL HDTV BRASIL [1080p]
 http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-#EXTINF:-1 tvg-id="TVVicosa.br@SD" tvg-name="TV Vicosa [480p]" tvg-logo="https://i.imgur.com/TZF55f9.png" group-title="🇧🇷 Variedades",TV Vicosa [480p]
-http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPlusPet.br@SD" tvg-name="TV+Pet" tvg-logo="https://www.tvmaispet.com.br/images/tvpet-logo.png" group-title="🇧🇷 Variedades",TV+Pet
 https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 #EXTINF:-1 tvg-id="UMATV.br@HD" tvg-name="UMA TV" tvg-logo="https://i.imgur.com/m0RVb79.png" group-title="🇧🇷 Variedades",UMA TV
@@ -390,6 +384,8 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 https://igrejamundial.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="NovoTempo.br@SD" tvg-name="Novo Tempo [720p]" tvg-logo="" group-title="🇧🇷 Religiosos",Novo Tempo [720p]
 http://186.219.52.187/novo_tempo/index.m3u8
+#EXTINF:-1 tvg-id="PlenitudeTV.br@SD" tvg-name="Plenitude TV [1080p]" tvg-logo="" group-title="🇧🇷 Religiosos",Plenitude TV [1080p]
+https://strv.painelvox.top/plenitude/plenitude/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeGospel.br@SD" tvg-name="Rede Gospel [1080p]" tvg-logo="https://i.imgur.com/mttSwgO.png" group-title="🇧🇷 Religiosos",Rede Gospel [1080p]
 https://cdn.live.br1.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeImpactoGospelTV.br@HD" tvg-name="Rede Impacto Gospel TV [720p]" tvg-logo="https://redeimpactogospel.com/assets/logo-512.png" group-title="🇧🇷 Religiosos",Rede Impacto Gospel TV [720p]
@@ -414,8 +410,10 @@ https://video09.logicahost.com.br/paieterno/paieterno/playlist.m3u8
 https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
 #EXTINF:-1 tvg-id="TVUniversal.br@SD" tvg-name="TV Universal [480p]" tvg-logo="https://i.imgur.com/TIsk5zN.png" group-title="🇧🇷 Religiosos",TV Universal [480p]
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-name="1001 Noites [720p]" tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="🇧🇷 Compras",1001 Noites [720p]
-https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+#EXTINF:-1 tvg-id="1001Noites.br@SD" tvg-name="1001 Noites [480p]" tvg-logo="https://i.imgur.com/dWA9y2J.png" group-title="🇧🇷 Compras",1001 Noites [480p]
+https://cpbr.appflux.com.br:2000/hls/1001noites/1001noites.m3u8
+#EXTINF:-1 tvg-id="ADBTV.pt@SD" tvg-name="ADB TV [1080p]" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" group-title="🇵🇹 Portugal",ADB TV [1080p]
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="ARTV.pt@SD" tvg-name="ARTV [720p]" tvg-logo="https://i.imgur.com/y00t9hr.png" group-title="🇵🇹 Portugal",ARTV [720p]
 https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNMovies.pt@SD" tvg-name="AXN Movies [720p]" tvg-logo="https://i.imgur.com/tJQckal.png" group-title="🇵🇹 Portugal",AXN Movies [720p]
@@ -547,8 +545,6 @@ https://cdn.fast.jwp.services/v1/channel/1_jB6940Ei_TvhvIHDL/manifest.m3u8
 http://212.5.144.156:8080/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@Brazil" tvg-name="Cartoon Network Latin America (Brazil) [720p]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="🌍 Outros em português",Cartoon Network Latin America (Brazil) [720p]
 http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
-#EXTINF:-1 tvg-id="CartoonNetworkWesternEurope.uk@Portugal" tvg-name="Cartoon Network Western Europe (Portugal) [1080p]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="🌍 Outros em português",Cartoon Network Western Europe (Portugal) [1080p]
-https://vavoorender-vuzs.onrender.com/manifest.m3u8?url=https://vavoo.to/vavoo-iptv/play/2672740913728a31b548ec
 #EXTINF:-1 tvg-id="DAZN3.uk@Portugal" tvg-name="DAZN 3 (Portugal) [720p]" tvg-logo="https://i.imgur.com/2rXsq2m.png" group-title="🌍 Outros em português",DAZN 3 (Portugal) [720p]
 http://23.237.104.106:8080/DAZN_3/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Brazil" tvg-name="Discovery Kids Latin America (Brazil) [720p]" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="🌍 Outros em português",Discovery Kids Latin America (Brazil) [720p]
@@ -776,7 +772,7 @@ https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
 https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
 #EXTINF:-1 tvg-id="5f12141b146d760007934ea7" tvg-name="Pluto TV Junior" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="📺 Pluto TV | Infantil",Pluto TV Junior
 https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
-#EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG.png" group-title="📺 Pluto TV | Infantil",Pluto TV Kids
+#EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-name="Pluto TV Kids" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/colorLogoPNG_1795806408950.png" group-title="📺 Pluto TV | Infantil",Pluto TV Kids
 https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
 #EXTINF:-1 tvg-id="66c8cae7fed35b0008580ec0" tvg-name="Pluto TV Kids Club" tvg-logo="https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/colorLogoPNG.png" group-title="📺 Pluto TV | Infantil",Pluto TV Kids Club
 https://jmp2.uk/plu-66c8cae7fed35b0008580ec0.m3u8
@@ -852,7 +848,7 @@ https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
 https://jmp2.uk/plu-63dd5c904e83e700088fb68a.m3u8
 #EXTINF:-1 tvg-id="6759eeb1bd523200083b4f29" tvg-name="Avatar: A lenda de Aang" tvg-logo="https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png" group-title="📺 Pluto TV | Nickelodeon",Avatar: A lenda de Aang
 https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
-#EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-name="Bob Esponja Calça Quadrada" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="📺 Pluto TV | Nickelodeon",Bob Esponja Calça Quadrada
+#EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-name="Bob Esponja Calça Quadrada" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG_1795805907704.png" group-title="📺 Pluto TV | Nickelodeon",Bob Esponja Calça Quadrada
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 #EXTINF:-1 tvg-id="656e28dd57fe4a0008819c3d" tvg-name="Dora  A Aventureira" tvg-logo="https://images.pluto.tv/channels/656e28dd57fe4a0008819c3d/colorLogoPNG.png" group-title="📺 Pluto TV | Nickelodeon",Dora  A Aventureira
 https://jmp2.uk/plu-656e28dd57fe4a0008819c3d.m3u8
